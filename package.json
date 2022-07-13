@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@guardian/cdk": "github:guardian/cdk#recreate-test"
+  }
+}
